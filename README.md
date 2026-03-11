@@ -1,2 +1,2 @@
-# The Manga collection App
+# The Manga Collection App
 
