@@ -16,8 +16,17 @@ const appStore = {
   // manga 
   getManga() {
     return this.store.findAll('manga');  // goes to app-store.json, finds 'manga' (array) and then returns all
-  }
+  },
 
-};
+  // authors
+  getAuthors() {
+    return this.store.findAll('authors');
+  },
+
+  //about
+  getAboutInfo() {
+  return this.store.findAll('about'); 
+}
+}
 
 export default appStore;

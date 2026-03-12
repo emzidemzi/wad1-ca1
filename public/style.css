@@ -18,7 +18,7 @@ body {
 #startImg {
   border-width: 10px;
   border-style: solid;
-  border-color: blueviolet;
+  border-color: rgb(61, 54, 68);
   border-radius: 4px;
   transition: all 0.3s ease-out;
 
